@@ -13,7 +13,7 @@ L’entièreté des programmes installés sont « Open Source »! (À l’except
 ```pacman -S curl```
 
  ## Usage
-- Téléchargez la dernière version à d'[ici](https://github.com/robglezDev/VerTiCamp-linux/releases) pour votre distribution de Linux. (Seulement Arch Linux et ses dérivés (Ex: Manjaro. Toute distribution basé sur Arch Linux) sont supporté pour le moment)
+- Téléchargez la dernière version à partir d'[ici](https://github.com/robglezDev/VerTiCamp-linux/releases) pour votre distribution de Linux. (Seulement Arch Linux et ses dérivés (Ex: Manjaro. Toute distribution basé sur Arch Linux) sont supporté pour le moment)
 - Autorisez le fichier à s’exécuter en utilisant la commande suivante  ```sudo chmod 755 VerTiCamp-Linux-DISTRIBUTION.sh```  (Remplacez DISTRIBUTION par votre distribution de Linux, ex : VerTiCamp-Linux-arch.sh)
 - Exécutez le script avec la commande ```./VerTiCamp-Linux-DISTRIBUTION.sh``` 
 
