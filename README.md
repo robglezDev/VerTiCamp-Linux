@@ -1,7 +1,7 @@
-#Projet bougé vers GitLab!
+# Projet bougé vers GitLab!
 [Voir](https://gitlab.com/Linetudiant/verticamp-linux)
 
-#Cette répertoire ne sera plus mise à jour.
+# Cette répertoire ne sera plus mise à jour.
 
 # VerTiCamp-Linux 2020 NON-OFFICIEL
 Ce petit « Script » vise à automatiser l’installation de logiciels installés lors du VerTiCamp 2020, mais cette fois-ci sur Linux!
