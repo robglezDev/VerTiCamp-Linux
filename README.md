@@ -1,7 +1,7 @@
 # Projet bougé vers GitLab!
 https://gitlab.com/Linetudiant/verticamp-linux
 
-#Cette répertoire ne sera plus mise à jour.
+# Cette répertoire ne sera plus mise à jour.
 
 # Cette répertoire ne sera plus mise à jour.
 
